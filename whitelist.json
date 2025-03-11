@@ -1,1 +1,48 @@
-
+{
+  "WhitelistedUsers": [
+    {
+      "hash": "c56d4ca9ba574f39dd02531c88d880f4143e3568fe03ad2d599a3ac1fde4b720",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "AEROV4 Owner",
+          "color": [255, 0, 0]
+        }
+      ]
+    },
+    {
+      "hash": "5f63017ae0fa05dcad86811bf418061b6bf73f54b278a6f02d49ba3eab3f32c7",
+      "attackable": false,
+      "level": 500,
+      "tags": [
+        {
+          "text": "Friend",
+          "color": [0, 255, 0]
+        }
+      ]
+    },
+    {
+      "hash": "0e30e3e2470800346fbc9ded1c5e5cac4017a6894877e82b33cf83b39632f878",
+      "attackable": false,
+      "level": 500,
+      "tags": [
+        {
+          "text": "Friend",
+          "color": [0, 255, 0]
+        }
+      ]
+    },
+    {
+      "hash": "a882d1b2590270a70d1c7086c633f6462ef35ce8b15f2b57cef5d6ca19d3dc47",
+      "attackable": false,
+      "level": 100,
+      "tags": [
+        {
+          "text": "AEROV4 User",
+          "color": [0, 150, 255]
+        }
+      ]
+    }
+  ]
+}
