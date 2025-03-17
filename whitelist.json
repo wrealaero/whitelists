@@ -1,7 +1,7 @@
 {
   "WhitelistedUsers": [
     {
-      "hash": "c56d4ca9ba574f39dd02531c88d880f4143e3568fe03ad2d599a3ac1fde4b720",
+      "id": "3235606769", // Prase (Owner)
       "attackable": false,
       "level": 900,
       "tags": [
@@ -12,7 +12,40 @@
       ]
     },
     {
-      "hash": "5f63017ae0fa05dcad86811bf418061b6bf73f54b278a6f02d49ba3eab3f32c7",
+      "id": "1065346704", // Abstract (Owner)
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "AEROV4 Owner",
+          "color": [255, 0, 0]
+        }
+      ]
+    },
+    {
+      "id": "7421025749", // Aero (Owner)
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "AEROV4 Owner",
+          "color": [255, 0, 0]
+        }
+      ]
+    },
+    {
+      "id": "8138482089", // Vape Owner Acc (Owner)
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "AEROV4 Owner",
+          "color": [255, 0, 0]
+        }
+      ]
+    },
+    {
+      "id": "1862426567", // wdz (Friend)
       "attackable": false,
       "level": 500,
       "tags": [
@@ -23,7 +56,7 @@
       ]
     },
     {
-      "hash": "0e30e3e2470800346fbc9ded1c5e5cac4017a6894877e82b33cf83b39632f878",
+      "id": "1741283905", // Mafia (Friend)
       "attackable": false,
       "level": 500,
       "tags": [
@@ -34,7 +67,117 @@
       ]
     },
     {
-      "hash": "a882d1b2590270a70d1c7086c633f6462ef35ce8b15f2b57cef5d6ca19d3dc47",
+      "id": "4609130313", // Don (Friend)
+      "attackable": false,
+      "level": 500,
+      "tags": [
+        {
+          "text": "Friend",
+          "color": [0, 255, 0]
+        }
+      ]
+    },
+    {
+      "id": "7998668127", // Desire alt 2 (Friend)
+      "attackable": false,
+      "level": 500,
+      "tags": [
+        {
+          "text": "Friend",
+          "color": [0, 255, 0]
+        }
+      ]
+    },
+    {
+      "id": "1333860334", // GWY (Friend)
+      "attackable": false,
+      "level": 500,
+      "tags": [
+        {
+          "text": "Friend",
+          "color": [0, 255, 0]
+        }
+      ]
+    },
+    {
+      "id": "3395900892", // Arin (Friend)
+      "attackable": false,
+      "level": 500,
+      "tags": [
+        {
+          "text": "Friend",
+          "color": [0, 255, 0]
+        }
+      ]
+    },
+    {
+      "id": "3918755017", // Taz (Friend)
+      "attackable": false,
+      "level": 500,
+      "tags": [
+        {
+          "text": "Friend",
+          "color": [0, 255, 0]
+        }
+      ]
+    },
+    {
+      "id": "1693751684", // Desire (User)
+      "attackable": false,
+      "level": 100,
+      "tags": [
+        {
+          "text": "AEROV4 User",
+          "color": [0, 150, 255]
+        }
+      ]
+    },
+    {
+      "id": "6010245822", // Tensai (User)
+      "attackable": false,
+      "level": 100,
+      "tags": [
+        {
+          "text": "AEROV4 User",
+          "color": [0, 150, 255]
+        }
+      ]
+    },
+    {
+      "id": "7053978438", // Desire alt (User)
+      "attackable": false,
+      "level": 100,
+      "tags": [
+        {
+          "text": "AEROV4 User",
+          "color": [0, 150, 255]
+        }
+      ]
+    },
+    {
+      "id": "3807371985", // Aero alt (User)
+      "attackable": false,
+      "level": 100,
+      "tags": [
+        {
+          "text": "AEROV4 User",
+          "color": [0, 150, 255]
+        }
+      ]
+    },
+    {
+      "id": "8142672492", // Abstract alt (User)
+      "attackable": false,
+      "level": 100,
+      "tags": [
+        {
+          "text": "AEROV4 User",
+          "color": [0, 150, 255]
+        }
+      ]
+    },
+    {
+      "id": "2604377944", // Don's Alt (User)
       "attackable": false,
       "level": 100,
       "tags": [
