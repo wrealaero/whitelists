@@ -45,7 +45,18 @@
       ]
     },
     {
-      "id": "1862426567", // wdz (Friend)
+      "id": "3807371985", // Aero alt (Owner)
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "AEROV4 Owner",
+          "color": [255, 0, 0]
+        }
+      ]
+    },
+    {
+      "id": "3563319189", // wdz (Friend) - Updated ID
       "attackable": false,
       "level": 500,
       "tags": [
@@ -122,40 +133,29 @@
       ]
     },
     {
-      "id": "1693751684", // Desire (User)
+      "id": "1693751684", // Desire (Friend) - Updated to Friend rank
       "attackable": false,
-      "level": 100,
+      "level": 500,
       "tags": [
         {
-          "text": "AEROV4 User",
-          "color": [0, 150, 255]
+          "text": "Friend",
+          "color": [0, 255, 0]
+        }
+      ]
+    },
+    {
+      "id": "7053978438", // Desire alt (Friend) - Updated to Friend rank
+      "attackable": false,
+      "level": 500,
+      "tags": [
+        {
+          "text": "Friend",
+          "color": [0, 255, 0]
         }
       ]
     },
     {
       "id": "6010245822", // Tensai (User)
-      "attackable": false,
-      "level": 100,
-      "tags": [
-        {
-          "text": "AEROV4 User",
-          "color": [0, 150, 255]
-        }
-      ]
-    },
-    {
-      "id": "7053978438", // Desire alt (User)
-      "attackable": false,
-      "level": 100,
-      "tags": [
-        {
-          "text": "AEROV4 User",
-          "color": [0, 150, 255]
-        }
-      ]
-    },
-    {
-      "id": "3807371985", // Aero alt (User)
       "attackable": false,
       "level": 100,
       "tags": [
